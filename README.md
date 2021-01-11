@@ -1,9 +1,11 @@
 ### Hi there, I'm [FrankCy!](https://github.com/FrankCy) 🙋‍♂️
-<div style="width: 100%;height: 150px;margin-top: 50px;">
-    <div style="width: 100px;height: 100%;float: right;background-color: red;">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FrankCy&layout=compact&theme=material-palenight" />
-    </div>
-    <div style="overflow: hidden;background-color: yellowgreen;height: 100%;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrankCy&layout=compact&theme=material-palenight&show_icons=true" />
-    </div>
-</div>
+<ul>
+    <li style="overflow: hidden;zoom: 1;font-size: 12px;margin-bottom: 20px;">
+        <div style="float: left;width: 85px;font-size: 14px;font-weight: 400;text-align: right;">
+            <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FrankCy&layout=compact&theme=material-palenight" />
+        </div>
+        <div style="margin-left: 85px;">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrankCy&layout=compact&theme=material-palenight&show_icons=true" />
+        </div>
+    </li>
+</ul>
