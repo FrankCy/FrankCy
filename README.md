@@ -2,7 +2,7 @@
 <table id="tbl" border=1 width="80%" frame=void >
 <tr style="border:none">
     <td style="border:none">
-        <img src="https://github.githubassets.com/images/mona-whisper.gif"/>
+        <img src="https://wiki.komica.org/images/1/1d/Img5154.gif"/>
     </td>
     <td style="border:none">
         <a href="#">
