@@ -8,11 +8,12 @@
         <a href="#">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrankCy&layout=compact&theme=material-palenight&show_icons=true" />
         </a>
+        <a href="#">
+          <img style="width:-webkit-fill-available" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FrankCy&layout=compact&theme=material-palenight" />
+        </a>
     </td>
     <td style="border:none">
-        <a href="#">
-          <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FrankCy&layout=compact&theme=material-palenight" />
-        </a>
+        <img src="http://p1.pstatp.com/large/pgc-image/a804f6a311764d98a91906dcf949efe9"/>
     </td>
 </tr>
 </table>
