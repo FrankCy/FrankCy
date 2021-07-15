@@ -2,7 +2,8 @@
 <table id="tbl" border=1 width="80%" frame=void >
     <tr style="border:none">
         <td style="border:none">
-            <img src="https://wiki.komica.org/images/1/1d/Img5154.gif"/>
+            <img src="https://wiki.komica.org/images/2/20/Img5166.gif"/>
+            <img src="https://wiki.komica.org/images/5/58/Img4523.gif"/>
         </td>
         <td style="border:none">
             <p>
